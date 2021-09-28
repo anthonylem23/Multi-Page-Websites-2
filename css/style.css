@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+}
+
+html{
+    height: 150%;
+    background-color: black;
+}
+
+.wrapper{
+    box-sizing: border-box;
+    padding-top: 0px;
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+    position: center;
+    top: 0;
+    left: 0;
+    background-color: crimson;
+    box-sizing: border-box;
+    padding: 20px 8px;
+}
+
+h1{
+    box-sizing: border-box;
+    padding-top: 10px;
+    background-color: gray;
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+p{
+    color: white;
+    margin-bottom: 20px;
+}
+
+img{
+    margin-top: 10px;
+    margin-right: 25px;
+}
